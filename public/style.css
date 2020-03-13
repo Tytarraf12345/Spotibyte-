@@ -1,0 +1,41 @@
+html{
+    background-color: black;
+}
+body {
+    background-color: #222;
+    color: gold;
+    text-align: center;
+}
+img{
+  width: 20%;
+  margin: 10px auto; 
+}
+header {
+    border: 2px solid #aaa;
+    background-color: black;
+}
+
+section {
+    width: 80%;
+    margin: 10px auto;
+    background-color: black;
+    
+}
+
+.item {
+    width: 30%;
+    margin: 10px auto;
+    border: 2px solid #aaa;
+  
+    background-color: darkgreen;
+}
+
+input {
+    display: block;
+    margin: 5px auto;
+    background-color: white;
+}
+
+.hidden {
+    display: none;
+}
